@@ -1,0 +1,19 @@
+{
+  "name": "crypto-test-cfang",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfangxx/crypto.git"
+  },
+  "author": "cfang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cfangxx/crypto/issues"
+  },
+  "homepage": "https://github.com/cfangxx/crypto#readme"
+}
